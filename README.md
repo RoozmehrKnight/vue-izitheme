@@ -41,7 +41,7 @@ JS
 ```
 this.setTheme({
     //variableName : 'variableValue',
-    textColor: #888,
+    textColor: '#888',
     'background-color': '#ccc',
     ...
 });
