@@ -1,6 +1,6 @@
 {
   "name": "vue-izitheme",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "an easy-to-use plugin for managing themes in vue js",
   "main": "izitheme.js",
   "scripts": {

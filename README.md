@@ -20,13 +20,13 @@ Vue.use(izitheme);
 
 # Usage
 
-use <a>CSS Variables</a> throughout your project but instead of hard coding the variable values, use the iziTheme setTheme() method to inject the variable values into DOM.
+use CSS Variables throughout your project but instead of hard coding the variable values, use the iziTheme setTheme() method to inject the variable values into DOM.
 
 ## Example
 
 HTML
 ```
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+<p>vue-izitheme is an easy-to-use plugin for managing themes in vue js</p>
 ```
 
 CSS
